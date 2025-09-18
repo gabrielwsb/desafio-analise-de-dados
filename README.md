@@ -24,5 +24,5 @@ Foi utilizado as seguintes bibliotecasa e ferramentas:
 
 
 
-[Link para o dashboard em Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTVkYTcxMWUtMDEzOS00YzA4LTk4NWMtODhmOTBjOGIzYmI0IiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
-[Link para o notebook com códigos Python](https://colab.research.google.com/drive/1fKic6oqjmjSmgrUWDqk6jsJO_sP719K_?usp=sharing)
+* [Link para o dashboard em Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTVkYTcxMWUtMDEzOS00YzA4LTk4NWMtODhmOTBjOGIzYmI0IiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
+* [Link para o notebook com códigos Python](https://colab.research.google.com/drive/1fKic6oqjmjSmgrUWDqk6jsJO_sP719K_?usp=sharing)
