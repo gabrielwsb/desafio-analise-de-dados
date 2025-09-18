@@ -1,4 +1,4 @@
-# desafio-analise-de-dados
+# 6º Projeto - Desafio - Análise-de-dados
 
 Este projeto faz parte de um desafio proposto para a candidatura de uma vaga de Analista de Dados. 
 A ideia é analisar os arquivos de dados de um banco fictício e responder as perguntas que o enunciado pede.
